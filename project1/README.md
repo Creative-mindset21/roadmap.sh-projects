@@ -1,6 +1,6 @@
 ### Project URL
 ---
-Sample solution for the [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv) challenge from [roadmap.sh](https://roadmap.sh/)
+Sample solution for the [Single-Page CV](https://roadmap.sh/projects/single-page-cv) challenge from [roadmap.sh](https://roadmap.sh/)
 ---
 
 # Single-Page HTML CV Project
