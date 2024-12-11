@@ -34,5 +34,5 @@ Your project should consist of the following:
 ## Instructions to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/Creative-mindset21/roadmap.sh-projects/tree/main/project1>
+   git clone https://github.com/Creative-mindset21/roadmap.sh-projects/tree/main/project1
    cd roadmap.sh-projects/project1
