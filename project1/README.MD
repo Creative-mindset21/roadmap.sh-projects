@@ -9,6 +9,7 @@ The goal of this project is to teach you how to create a single-page CV that sho
 ### Project Page
 
 For more details about this project, visit: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
+https://roadmap.sh/projects/single-page-cv
 
 ## Key Requirements
 
