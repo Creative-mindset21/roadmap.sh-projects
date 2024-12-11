@@ -1,4 +1,5 @@
 
+The project page URL 'https://roadmap.sh/projects/single-page-cv'
 
 # Single-Page HTML CV Project
 
