@@ -10,11 +10,6 @@ Welcome to the Single-Page HTML CV project! This project is designed to help you
 
 The goal of this project is to teach you how to create a single-page CV that showcases your career history. You will learn to use semantic HTML, SEO meta tags, and Open Graph (OG) tags to enhance your CV's visibility.
 
-### Project URL
-
-For more details about this project, visit: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
-
-
 ## Key Requirements
 
 - **Semantic HTML**: Use appropriate HTML tags to structure your CV.
@@ -41,3 +36,10 @@ Your project should consist of the following:
    ```bash
    git clone https://github.com/Creative-mindset21/roadmap.sh-projects/tree/main/project1
    cd roadmap.sh-projects/project1
+
+### Project URL
+---
+
+**project URL**:[Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
+
+---
