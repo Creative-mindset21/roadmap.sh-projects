@@ -1,3 +1,7 @@
+### Project URL
+---
+Sample solution for the [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv) challenge from [roadmap.sh](https://roadmap.sh/)
+---
 
 # Single-Page HTML CV Project
 
@@ -34,9 +38,4 @@ Your project should consist of the following:
    git clone https://github.com/Creative-mindset21/roadmap.sh-projects/tree/main/project1
    cd roadmap.sh-projects/project1
 
-### Project URL
----
 
-**project URL**:[Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
-
----
