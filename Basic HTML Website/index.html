@@ -9,98 +9,128 @@
     <title>Basic HTML Website</title>
   </head>
   <body>
-    <header>
-      <a href="#">Don Khing</a>
+    <div class="wrapper">
+      <header>
+        <a href="#" class="logo">Don Khing</a>
 
-      <nav>
-        <ul>
-          <li>Home</li>
-          <li>Projects</li>
-          <li>Articles</li>
-          <li>Contact</li>
-        </ul>
-      </nav>
-    </header>
-
-    <main>
-      <section class="hero">
-        <h1>Frontend Developer</h1>
-        <p>html only with proper layout, no styling</p>
-      </section>
-
-      <section class="section">
-        <div class="projects">
+        <nav>
           <ul>
-            <li>HTML Only Portfolio</li>
-            <li>Calculator</li>
-            <li>Quiz App</li>
-            <li>Countdown Timer</li>
-            <li>Product Upcoming Page</li>
+            <li><a href="#">Home /</a></li>
+            <li><a href="#">Projects /</a></li>
+            <li><a href="#">Articles /</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
-        </div>
+        </nav>
+      </header>
 
-        <div class="experiences">
-          <h2>Work Experience</h2>
+      <main>
+        <section class="hero">
+          <h1>Frontend Developer</h1>
+          <p>html only with proper layout, no styling</p>
+        </section>
 
-          <div class="experience-top">
-            <h3>roadmap.sh</h3>
-            <p>Solved all the frontend projects</p>
-            <a href="#">Visit my Profile</a>
+        <section class="about">
+          <div class="projects">
+            <h2>Projects</h2>
+            <ul>
+              <li>HTML Only Portfolio</li>
+              <li>Calculator</li>
+              <li>Quiz App</li>
+              <li>Countdown Timer</li>
+              <li>Product Upcoming Page</li>
+            </ul>
           </div>
 
-          <div class="experience-bottom">
-            <h3>OpenSource Work</h3>
-            <p>
-              Contributed to 50 open source projects. Made my own projects with
-              200 Github Stars.
-            </p>
-            <a href="#">Visit my Github Profile</a>
-          </div>
-        </div>
+          <div class="experiences">
+            <h2>Work Experience</h2>
 
-        <div class="education">
-          <h2>Education</h2>
+            <div class="experience">
+              <div class="experience-top">
+                <h3>roadmap.sh</h3>
+                <p>Solved all the frontend projects</p>
+                <a href="#">Visit my Profile</a>
+              </div>
 
-          <p>
-            Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organised 30
-            sessions
-          </p>
-          <p>Courses I took:</p>
-
-          <ul>
-            <li>Object Oriented Programming</li>
-            <li>Data Structures and Algorithms</li>
-            <li>Web Engineering</li>
-            <li>Human Computer Interaction</li>
-            <li>Computer Graphics</li>
-            <li>Database Management Systems</li>
-            <li>Distributed Database Systems</li>
-            <li>Discreet Mathematics</li>
-          </ul>
-        </div>
-      </section>
-
-      <section class="reviews">
-        <h2>Reviews from my Teachers</h2>
-
-        <div class="review-cards">
-          <div class="card">
-            <p>
-              John doe was a brilliant student; always stood out with his
-              assignments.
-            </p>
-
-            <div class="name-details">
-              <p class="name">John Doe</p>
-              <p class="details">Professor of Computer Science</p>
+              <div class="experience-bottom">
+                <h3>OpenSource Work</h3>
+                <p>
+                  Contributed to 50 open source projects. Made my own projects
+                  with 200 Github Stars.
+                </p>
+                <a href="#">Visit my Github Profile</a>
+              </div>
             </div>
           </div>
-        </div>
-      </section>
 
-      <footer>
-        <p>&copy; all rights reserved 2025</p>
-      </footer>
-    </main>
+          <div class="education">
+            <h2>Education</h2>
+            <div>
+              <p>
+                Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organised
+                30 sessions
+              </p>
+              <p>Courses I took:</p>
+
+              <ul class="courses">
+                <li>Object Oriented Programming</li>
+                <li>Data Structures and Algorithms</li>
+                <li>Web Engineering</li>
+                <li>Human Computer Interaction</li>
+                <li>Computer Graphics</li>
+                <li>Database Management Systems</li>
+                <li>Distributed Database Systems</li>
+                <li>Discreet Mathematics</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="reviews">
+          <h2>Reviews from my Teachers</h2>
+
+          <div class="review-cards">
+            <div class="card">
+              <p>
+                John doe was a brilliant student; always stood out with his
+                assignments.
+              </p>
+
+              <div class="name-details">
+                <p class="name">John Doe</p>
+                <p class="details">Professor of Computer Science</p>
+              </div>
+            </div>
+
+            <div class="card">
+              <p>
+                John doe was a brilliant student; always stood out with his
+                assignments.
+              </p>
+
+              <div class="name-details">
+                <p class="name">John Doe</p>
+                <p class="details">Professor of Computer Science</p>
+              </div>
+            </div>
+
+            <div class="card">
+              <p>
+                John doe was a brilliant student; always stood out with his
+                assignments.
+              </p>
+
+              <div class="name-details">
+                <p class="name">John Doe</p>
+                <p class="details">Professor of Computer Science</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <footer>
+          <p>&copy; all rights reserved 2025</p>
+        </footer>
+      </main>
+    </div>
   </body>
 </html>
